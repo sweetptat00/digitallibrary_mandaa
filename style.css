@@ -1,0 +1,14 @@
+.button register {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 30%;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;  
+    align-items: center;  
+    height: 10vw;
+    width: 10vw;
+    margin: 0;
+    padding: 0;
+}
